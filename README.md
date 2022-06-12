@@ -1,4 +1,3 @@
-### cash-flow
-#### Finance tracker - React / Firebase
+### [cash-flow](https://cash-flow-da0a4.web.app)
 
-#### cash-flow-da0a4.web.app
+#### Finance tracker - React / Firebase
